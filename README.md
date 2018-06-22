@@ -1,5 +1,7 @@
 # espace
 
+*Please notes that the development of this project continues at https://github.com/fredyouhanaie/espace*
+
 ## Introduction
 
 `espace` is an Erlang implementation of the Tuple Spaces
